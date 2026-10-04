@@ -1,0 +1,6 @@
+{
+  "name": "Nexo Joven",
+  "description": "Plataforma digital que conecta a jóvenes con oportunidades de participación, prácticas formativas y voluntariado en General Pico y la Región Pampeana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
